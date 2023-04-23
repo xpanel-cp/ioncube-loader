@@ -1,4 +1,4 @@
 # ioncube-loader
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/HamedAp/ioncube-loader/main/install.sh --ipv4)
+bash <(curl -Ls https://raw.githubusercontent.com/Alirezad07/ioncube-loader/main/install.sh --ipv4)
 ```
